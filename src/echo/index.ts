@@ -1,5 +1,5 @@
 /**
- * Sample action "echo" - remove/reuse if not required
+ * Sample Sample action "echo" - remove/reuse if not required
  *
  * The following interfaces would match with your input/output schema as set on the DevFlows UI
  */
